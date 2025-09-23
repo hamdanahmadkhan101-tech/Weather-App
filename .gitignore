@@ -1,0 +1,14 @@
+# API Keys and sensitive data
+config.js
+.env
+
+# Dependencies
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
