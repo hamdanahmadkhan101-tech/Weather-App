@@ -1,5 +1,6 @@
 # API Keys and sensitive data
 config.js
+JS/config.js
 .env
 
 # Dependencies
